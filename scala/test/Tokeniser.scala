@@ -17,7 +17,7 @@ class ToKeniser(val phrase:String) {
   def extractNumber ={}
   def extractVariable ={}
  
-def tokenise() = {
+def tokenise():Unit = {
  
   latestChar = getNext
   
