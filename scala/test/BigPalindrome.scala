@@ -13,6 +13,6 @@ sum * sum - sumSquares
 
 
 def main(args: Array[String]) = {
-println(diffSquareSum(100))
+println(diffSquareSum(102))
 }
 }

@@ -5,7 +5,7 @@ object Fibinacci {
   def fibonacci(term:Int) :Int = 
   {
     
-    if(term <2)   return 1;
+    if(term < 2)   return 1;
     
     var prevLess=1
     var prev = 1
