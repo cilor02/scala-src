@@ -29,6 +29,6 @@ object Collatz {
  
   
 def main(args: Array[String]) :Unit = {
-  collatz(201);
+  collatz(199);
 }
 }
